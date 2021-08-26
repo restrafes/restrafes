@@ -2,13 +2,14 @@
 
 <b>i'm pete</b>, a software developer who's currently a senior in high school.
 
-<a href="https://www.linkedin.com/in/petepongpeauk/">
-  <img src="https://img.shields.io/badge/linkedin-24B2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/petestrafes/">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/petepongpeauk/">
+    <img src="https://img.shields.io/badge/linkedin-24B2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/petestrafes/">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
 
 ## <b>🤔 about me</b>
 
@@ -39,7 +40,6 @@
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
-  <img src="https://img.shields.io/badge/firebase-FFF?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
 </div>
 
 <div>
@@ -47,10 +47,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-42ADFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-FFF?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
 
 <div>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-42ADFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
