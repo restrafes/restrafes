@@ -1,5 +1,4 @@
-## <b>hello, world! 👋 🙃</b>
----
+# <b>hello, world! 👋 🙃</b>
 
 <b>i'm pete</b>, a software developer who's currently a senior in high school.
 
