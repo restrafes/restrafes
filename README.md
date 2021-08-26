@@ -19,7 +19,7 @@
 
 - 🌱 i'm currently learning <b>React and Express</b>
 
-- 💡 in addition to software development, i'm interested in all things data: <b>big data, data science, and machine learning!</b>
+- 💡 in addition to software development, i'm interested in all things data: <b>big data, data science, and machine learning</b>
 
 - 💬 ask me anything!
 
